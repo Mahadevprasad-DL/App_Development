@@ -3,11 +3,9 @@
 This repository contains basic activities and examples developed using Android Studio.
 
 ## Activities Overview
-
-| Activity No. | Description                         | Topics Covered                |
-|--------------|-------------------------------------|------------------------------|
-| Activity 1   | Moving from one page to another and displaying a popup message using Toast | Intents, Toast, Navigation   |
-
+| Activity No. | Description                         | Topics Covered                | Layout (UI) File        |
+|--------------|-------------------------------------|-------------------------------|--------------------------|
+| Activity 1   | Moving from one page to another and displaying a popup message using Toast | Intents, Toast, Navigation   | `activity_main.xml`, `activity_second.xml` |
 ---
 
 ### 🔥 Activity 1: Moving from One Page to Another & Toast Popup

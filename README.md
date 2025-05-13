@@ -1,24 +1,13 @@
-# Android Studio App Development Repository
+# Android Studio App Development  🔥 Repository
 
 This repository contains basic activities and examples developed using Android Studio.
 
-## Activities Overview
-| Activity No. | Description                         | Topics Covered                | Layout (UI) File        |
-|--------------|-------------------------------------|-------------------------------|--------------------------|
+| Activity No. | Description                                                                | Topics Covered               | Layout (UI) File                           |
+| ------------ | -------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ |
 | Activity 1   | Moving from one page to another and displaying a popup message using Toast | Intents, Toast, Navigation   | `activity_main.xml`, `activity_second.xml` |
+| Activity 2   | Displaying an Alert Dialog box                                             | AlertDialog, DialogInterface |                      |
+
 ---
-
-### 🔥 Activity 1: Moving from One Page to Another & Toast Popup
-
-In this activity, we demonstrate how to navigate from one page to another using **Intents** and how to display a popup message using **Toast**.
-
-**Key Topics:**
-- Intent usage for screen navigation
-- Toast for displaying messages
-
-**Files Included:**
-- `MainActivity.java` - Contains the initial screen setup and navigation code.
-- `SecondActivity.java` - The destination screen to which the user is navigated.
 
 **How to Run:**
 1. Open the project in Android Studio.

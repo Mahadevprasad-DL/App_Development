@@ -2,10 +2,12 @@
 
 This repository contains basic activities and examples developed using Android Studio.
 
-| Activity No. | Description                                                                | Topics Covered               | Layout (UI) File                           |
-| ------------ | -------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ |
+| Activity No. | Description                                | Topics Covered               | Layout (UI) File                           |
+| ------------ | ------------------------------------------ | ---------------------------- | ------------------------------------------ |
 | Activity 1   | Moving from one page to another and displaying a popup message using Toast | Intents, Toast, Navigation   | `activity_main.xml`, `activity_second.xml` |
-| Activity 2   | Displaying an Alert Dialog box                                             | AlertDialog, DialogInterface |                      |
+| Activity 2   | Displaying an Alert Dialog box             | AlertDialog, DialogInterface |                                           |
+| Activity 3   | Implementing a Progress Bar                | ProgressBar, Handlers        | `activity_main.xml` (layout)                   |
+
 
 ---
 

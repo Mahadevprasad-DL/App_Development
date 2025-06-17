@@ -7,7 +7,7 @@ const vapidKeys = {
 };
 
 webpush.setVapidDetails(
-  'mailto:mahadevapdl.mca24@rvce.edu.in',
+  'mailto: ',      // enter your email here 
   vapidKeys.publicKey,
   vapidKeys.privateKey
 );
